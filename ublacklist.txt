@@ -93,7 +93,6 @@
 /ulketv\.(com|org|com.tr|net|me|gov|gov.tr|org|org.tr|k12.tr|news|zip|ch|biz|gen|web|tv|de|info|site)/
 /webtekno\.(com|org|com.tr|net|me|gov|gov.tr|org|org.tr|k12.tr|news|zip|ch|biz|gen|web|tv|de|info|site)/
 /yabantv\.(com|org|com.tr|net|me|gov|gov.tr|org|org.tr|k12.tr|news|zip|ch|biz|gen|web|tv|de|info|site)/
-/youtube\.(com|org|com.tr|net|me|gov|gov.tr|org|org.tr|k12.tr|news|zip|ch|biz|gen|web|tv|de|info|site)/
 
 # diyanet
 /ditib\.(com|org|com.tr|net|me|gov|gov.tr|org|org.tr|k12.tr|news|zip|ch|biz|gen|web|tv|de|info|site)/
