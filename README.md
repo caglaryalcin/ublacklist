@@ -7,8 +7,9 @@ Listeye neler dahil?
 6. **Others**
 7. **Domain Extensions**
 
-Listeye uBlacklist üzerinden abone olmak için aşağıdaki linki aboneliker kısmına yapıştırın:
+Listeye uBlacklist üzerinden abone olmak için aşağıdaki linklerden birini aboneliker kısmına yapıştırın:
 
 ```
+https://caglaryalcin.com/blacklist
 https://raw.githubusercontent.com/caglaryalcin/ublacklist/main/ublacklist.txt
 ```
