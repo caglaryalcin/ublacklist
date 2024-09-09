@@ -608,3 +608,6 @@
 /\.(si)/
 /\.(be)/
 /\.(ch)/
+
+# allowlist
+@*://techolay.net/*
