@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/caglaryalcin/caglaryalcin/main/blocked.png)
+
 Listeye neler dahil?
 1. **Magazine**
 2. **Weather**
