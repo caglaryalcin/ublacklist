@@ -611,3 +611,4 @@
 
 # allowlist
 @*://techolay.net/*
+@*://donanimhaber.com/*
