@@ -610,5 +610,6 @@
 /\.(ch)/
 
 # allowlist
-@*://techolay.net/*
-@*://donanimhaber.com/*
+@*://www.microsoft.com/*
+@*://*.techolay.net/*
+@*://*.donanimhaber.com/*
